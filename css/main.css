@@ -84,6 +84,11 @@ html, body {
    height: 100%;
 }
 
+.search-icon
+{
+    display: none;
+}
+
 body {
    background: #19191b;
    font-family: "metropolis-regular", sans-serif;
